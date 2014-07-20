@@ -8,18 +8,18 @@ import System.IO
 import System.Process
 import System.ShQQ
 
---qstatOutput = "output.qstat"
+--qstatOutput = "output.qstat3"
 
 main = do
   args <- getArgs
-  a <- readShell "qstat -f"
---  a <- readFile qstatOutput 
+  a <- readShell "qstat -f | sed '/\\t/d'"
+--  a <- readFile qstatOutput
   Just win <- hSize stdout
   if a == "" 
      then putStrLn "\nNo Jobs on Queue !!\n"
      else do
           let mosaicD = map words $ lines a
-              widthTerminal = width win
+              widthTerminal = width win :: Int
               transf  = transformer widthTerminal mosaicD
           if args == [] 
              then putStrLn $ unlines transf
@@ -79,5 +79,5 @@ adaptToTerminal winS xs = let
 
 reLength diffL x = take 1 x ++ [concat (take diffL (repeat " ")) ++ (x!!1)] ++ drop 2 x
 
-shorten x = init x
+shorten x = if length (x!!1) > 30 then take 1 x ++ [reverse $ take 30 $ reverse(x!!1)] ++ drop 2 x else init x
 
