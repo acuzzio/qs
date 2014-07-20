@@ -8,11 +8,12 @@ import System.IO
 import System.Process
 import System.ShQQ
 
---qstatOutput = "output.qstat"
+qstatOutput = "output.qstat"
 
 main = do
-  a <- readShell "qstat -f"
---  a <- readFile qstatOutput 
+  args <- getArgs
+--  a <- readShell "qstat -f"
+  a <- readFile qstatOutput 
   Just win <- hSize stdout
   if a == "" 
      then putStrLn "\nNo Jobs on Queue !!\n"
@@ -20,7 +21,11 @@ main = do
           let mosaicD = map words $ lines a
               widthTerminal = width win
               transf  = transformer widthTerminal mosaicD
-          putStrLn $ unlines transf
+          if args == [] 
+             then putStrLn $ unlines transf
+             else do
+                  let oriz = take widthTerminal $ repeat '-'
+                  putStrLn $ unlines $ [oriz] ++ (filter (\x -> elem (head args) (words x)) transf) ++ [oriz]
 
 transformer :: Int -> [[String]] -> [String]
 transformer winS xss = let 
