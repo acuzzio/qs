@@ -1,4 +1,4 @@
 qs
 ==
 
-This is my "pretty qstat" to list job on clusters
+This is my "pretty qstat" to list jobs on Torque Clusters
