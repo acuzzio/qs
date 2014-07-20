@@ -1,0 +1,2022 @@
+Job Id: 6829.frontend
+    Job_Name = geom298
+    Job_Owner = alessio@frontend
+    resources_used.cput = 05:58:05
+    resources_used.mem = 806460kb
+    resources_used.vmem = 2044728kb
+    resources_used.walltime = 06:21:49
+    job_state = C
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Fri Jul 18 17:55:31 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/f-psb3Cis_cPcasscf/geom298
+	/geom298.e6829
+    exec_host = node1/7+node1/6+node1/5+node1/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:08:12 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/f-psb3Cis_cPcasscf/geom29
+	8/geom298.o6829
+    Priority = 0
+    qtime = Fri Jul 18 17:55:31 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 12111
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/f-psb3Cis_cPcasscf/geom298,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Fri Jul 18 17:55:31 2014
+    exit_status = 0
+    submit_args = geom298.sub
+    start_time = Sun Jul 20 04:46:23 2014
+    start_count = 1
+    fault_tolerant = False
+    comp_time = Sun Jul 20 11:08:13 2014
+    job_radix = 0
+    total_runtime = 22910.162938
+    submit_host = frontend
+
+Job Id: 6830.frontend
+    Job_Name = geom299
+    Job_Owner = alessio@frontend
+    resources_used.cput = 05:46:53
+    resources_used.mem = 806472kb
+    resources_used.vmem = 2044736kb
+    resources_used.walltime = 06:09:46
+    job_state = C
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Fri Jul 18 17:55:31 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/f-psb3Cis_cPcasscf/geom299
+	/geom299.e6830
+    exec_host = node4/7+node4/6+node4/5+node4/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:07:35 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/f-psb3Cis_cPcasscf/geom29
+	9/geom299.o6830
+    Priority = 0
+    qtime = Fri Jul 18 17:55:31 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 9380
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/f-psb3Cis_cPcasscf/geom299,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Fri Jul 18 17:55:31 2014
+    exit_status = 0
+    submit_args = geom299.sub
+    start_time = Sun Jul 20 04:57:49 2014
+    start_count = 1
+    fault_tolerant = False
+    comp_time = Sun Jul 20 11:07:36 2014
+    job_radix = 0
+    total_runtime = 22187.120969
+    submit_host = frontend
+
+Job Id: 6833.frontend
+    Job_Name = geom000
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:14
+    resources_used.mem = 521788kb
+    resources_used.vmem = 2044732kb
+    resources_used.walltime = 00:08:45
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:12 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom000
+	/geom000.e6833
+    exec_host = node11/3+node11/2+node11/1+node11/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:13 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom00
+	0/geom000.o6833
+    Priority = 0
+    qtime = Sun Jul 20 11:00:12 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 17332
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom000,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:12 2014
+    submit_args = geom000.sub
+    start_time = Sun Jul 20 11:00:13 2014
+    Walltime.Remaining = 3595833
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6834.frontend
+    Job_Name = geom001
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:22
+    resources_used.mem = 806444kb
+    resources_used.vmem = 2044728kb
+    resources_used.walltime = 00:08:43
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:12 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom001
+	/geom001.e6834
+    exec_host = node10/3+node10/2+node10/1+node10/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:13 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom00
+	1/geom001.o6834
+    Priority = 0
+    qtime = Sun Jul 20 11:00:12 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 12713
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom001,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:12 2014
+    submit_args = geom001.sub
+    start_time = Sun Jul 20 11:00:13 2014
+    Walltime.Remaining = 3595833
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6835.frontend
+    Job_Name = geom002
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:26
+    resources_used.mem = 806468kb
+    resources_used.vmem = 2044724kb
+    resources_used.walltime = 00:08:56
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:12 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom002
+	/geom002.e6835
+    exec_host = node9/3+node9/2+node9/1+node9/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:13 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom00
+	2/geom002.o6835
+    Priority = 0
+    qtime = Sun Jul 20 11:00:12 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 18114
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom002,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:12 2014
+    submit_args = geom002.sub
+    start_time = Sun Jul 20 11:00:13 2014
+    Walltime.Remaining = 3595833
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6836.frontend
+    Job_Name = geom003
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:14
+    resources_used.mem = 806428kb
+    resources_used.vmem = 1883092kb
+    resources_used.walltime = 00:08:44
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:13 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom003
+	/geom003.e6836
+    exec_host = node11/7+node11/6+node11/5+node11/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:13 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom00
+	3/geom003.o6836
+    Priority = 0
+    qtime = Sun Jul 20 11:00:13 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 17382
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom003,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:13 2014
+    submit_args = geom003.sub
+    start_time = Sun Jul 20 11:00:13 2014
+    Walltime.Remaining = 3595833
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6837.frontend
+    Job_Name = geom004
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:21
+    resources_used.mem = 806452kb
+    resources_used.vmem = 1883088kb
+    resources_used.walltime = 00:08:42
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:13 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom004
+	/geom004.e6837
+    exec_host = node10/7+node10/6+node10/5+node10/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:13 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom00
+	4/geom004.o6837
+    Priority = 0
+    qtime = Sun Jul 20 11:00:13 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 12763
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom004,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:13 2014
+    submit_args = geom004.sub
+    start_time = Sun Jul 20 11:00:13 2014
+    Walltime.Remaining = 3595833
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6838.frontend
+    Job_Name = geom005
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:29
+    resources_used.mem = 522272kb
+    resources_used.vmem = 2044736kb
+    resources_used.walltime = 00:08:56
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:13 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom005
+	/geom005.e6838
+    exec_host = node9/7+node9/6+node9/5+node9/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:13 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom00
+	5/geom005.o6838
+    Priority = 0
+    qtime = Sun Jul 20 11:00:13 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 18164
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom005,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:13 2014
+    submit_args = geom005.sub
+    start_time = Sun Jul 20 11:00:14 2014
+    Walltime.Remaining = 3595834
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6839.frontend
+    Job_Name = geom006
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:11
+    resources_used.mem = 806464kb
+    resources_used.vmem = 2044720kb
+    resources_used.walltime = 00:08:39
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:14 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom006
+	/geom006.e6839
+    exec_host = node8/3+node8/2+node8/1+node8/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:14 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom00
+	6/geom006.o6839
+    Priority = 0
+    qtime = Sun Jul 20 11:00:14 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 23008
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom006,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:14 2014
+    submit_args = geom006.sub
+    start_time = Sun Jul 20 11:00:14 2014
+    Walltime.Remaining = 3595834
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6840.frontend
+    Job_Name = geom007
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:28
+    resources_used.mem = 523900kb
+    resources_used.vmem = 2044728kb
+    resources_used.walltime = 00:08:53
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:14 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom007
+	/geom007.e6840
+    exec_host = node7/3+node7/2+node7/1+node7/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:14 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom00
+	7/geom007.o6840
+    Priority = 0
+    qtime = Sun Jul 20 11:00:14 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 6980
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom007,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:14 2014
+    submit_args = geom007.sub
+    start_time = Sun Jul 20 11:00:14 2014
+    Walltime.Remaining = 3595834
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6841.frontend
+    Job_Name = geom008
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:11
+    resources_used.mem = 522624kb
+    resources_used.vmem = 2044724kb
+    resources_used.walltime = 00:08:36
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:14 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom008
+	/geom008.e6841
+    exec_host = node6/3+node6/2+node6/1+node6/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:14 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom00
+	8/geom008.o6841
+    Priority = 0
+    qtime = Sun Jul 20 11:00:14 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 31149
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom008,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:14 2014
+    submit_args = geom008.sub
+    start_time = Sun Jul 20 11:00:14 2014
+    Walltime.Remaining = 3595834
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6842.frontend
+    Job_Name = geom009
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:13
+    resources_used.mem = 806452kb
+    resources_used.vmem = 2044728kb
+    resources_used.walltime = 00:08:40
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:14 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom009
+	/geom009.e6842
+    exec_host = node5/3+node5/2+node5/1+node5/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:14 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom00
+	9/geom009.o6842
+    Priority = 0
+    qtime = Sun Jul 20 11:00:14 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 29721
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom009,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:14 2014
+    submit_args = geom009.sub
+    start_time = Sun Jul 20 11:00:14 2014
+    Walltime.Remaining = 3595834
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6843.frontend
+    Job_Name = geom010
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:00
+    resources_used.mem = 522656kb
+    resources_used.vmem = 2044736kb
+    resources_used.walltime = 00:08:45
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:14 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom010
+	/geom010.e6843
+    exec_host = node3/3+node3/2+node3/1+node3/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:14 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom01
+	0/geom010.o6843
+    Priority = 0
+    qtime = Sun Jul 20 11:00:14 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 1241
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom010,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:14 2014
+    submit_args = geom010.sub
+    start_time = Sun Jul 20 11:00:14 2014
+    Walltime.Remaining = 3595834
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6844.frontend
+    Job_Name = geom011
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:07:37
+    resources_used.mem = 806432kb
+    resources_used.vmem = 2044624kb
+    resources_used.walltime = 00:08:26
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:14 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom011
+	/geom011.e6844
+    exec_host = node2/3+node2/2+node2/1+node2/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:14 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom01
+	1/geom011.o6844
+    Priority = 0
+    qtime = Sun Jul 20 11:00:14 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 28193
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom011,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:14 2014
+    submit_args = geom011.sub
+    start_time = Sun Jul 20 11:00:14 2014
+    Walltime.Remaining = 3595834
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6845.frontend
+    Job_Name = geom012
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:16
+    resources_used.mem = 806432kb
+    resources_used.vmem = 2044728kb
+    resources_used.walltime = 00:08:44
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:14 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom012
+	/geom012.e6845
+    exec_host = node11/11+node11/10+node11/9+node11/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:14 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom01
+	2/geom012.o6845
+    Priority = 0
+    qtime = Sun Jul 20 11:00:14 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 17454
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom012,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:14 2014
+    submit_args = geom012.sub
+    start_time = Sun Jul 20 11:00:14 2014
+    Walltime.Remaining = 3595834
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6846.frontend
+    Job_Name = geom013
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:18
+    resources_used.mem = 522092kb
+    resources_used.vmem = 1883100kb
+    resources_used.walltime = 00:08:41
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:14 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom013
+	/geom013.e6846
+    exec_host = node10/11+node10/10+node10/9+node10/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:15 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom01
+	3/geom013.o6846
+    Priority = 0
+    qtime = Sun Jul 20 11:00:14 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 12835
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom013,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:14 2014
+    submit_args = geom013.sub
+    start_time = Sun Jul 20 11:00:15 2014
+    Walltime.Remaining = 3595835
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6847.frontend
+    Job_Name = geom014
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:25
+    resources_used.mem = 806464kb
+    resources_used.vmem = 2044720kb
+    resources_used.walltime = 00:08:54
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:15 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom014
+	/geom014.e6847
+    exec_host = node9/11+node9/10+node9/9+node9/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:15 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom01
+	4/geom014.o6847
+    Priority = 0
+    qtime = Sun Jul 20 11:00:15 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 18236
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom014,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:15 2014
+    submit_args = geom014.sub
+    start_time = Sun Jul 20 11:00:15 2014
+    Walltime.Remaining = 3595835
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6848.frontend
+    Job_Name = geom015
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:14
+    resources_used.mem = 522372kb
+    resources_used.vmem = 2044728kb
+    resources_used.walltime = 00:08:38
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:15 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom015
+	/geom015.e6848
+    exec_host = node8/7+node8/6+node8/5+node8/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:15 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom01
+	5/geom015.o6848
+    Priority = 0
+    qtime = Sun Jul 20 11:00:15 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 23069
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom015,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:15 2014
+    submit_args = geom015.sub
+    start_time = Sun Jul 20 11:00:15 2014
+    Walltime.Remaining = 3595835
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6849.frontend
+    Job_Name = geom016
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:38
+    resources_used.mem = 522460kb
+    resources_used.vmem = 2044724kb
+    resources_used.walltime = 00:08:52
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:15 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom016
+	/geom016.e6849
+    exec_host = node7/7+node7/6+node7/5+node7/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:15 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom01
+	6/geom016.o6849
+    Priority = 0
+    qtime = Sun Jul 20 11:00:15 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 7041
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom016,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:15 2014
+    submit_args = geom016.sub
+    start_time = Sun Jul 20 11:00:15 2014
+    Walltime.Remaining = 3595835
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6850.frontend
+    Job_Name = geom017
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:12
+    resources_used.mem = 521824kb
+    resources_used.vmem = 2044724kb
+    resources_used.walltime = 00:08:35
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:15 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom017
+	/geom017.e6850
+    exec_host = node6/7+node6/6+node6/5+node6/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:15 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom01
+	7/geom017.o6850
+    Priority = 0
+    qtime = Sun Jul 20 11:00:15 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 31210
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom017,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:15 2014
+    submit_args = geom017.sub
+    start_time = Sun Jul 20 11:00:15 2014
+    Walltime.Remaining = 3595835
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6851.frontend
+    Job_Name = geom018
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:09
+    resources_used.mem = 522552kb
+    resources_used.vmem = 2044732kb
+    resources_used.walltime = 00:08:39
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:15 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom018
+	/geom018.e6851
+    exec_host = node5/7+node5/6+node5/5+node5/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:15 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom01
+	8/geom018.o6851
+    Priority = 0
+    qtime = Sun Jul 20 11:00:15 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 29782
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom018,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:15 2014
+    submit_args = geom018.sub
+    start_time = Sun Jul 20 11:00:15 2014
+    Walltime.Remaining = 3595835
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6852.frontend
+    Job_Name = geom019
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:09
+    resources_used.mem = 806416kb
+    resources_used.vmem = 2044732kb
+    resources_used.walltime = 00:08:55
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:15 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom019
+	/geom019.e6852
+    exec_host = node4/3+node4/2+node4/1+node4/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:15 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom01
+	9/geom019.o6852
+    Priority = 0
+    qtime = Sun Jul 20 11:00:15 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 15153
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom019,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:15 2014
+    submit_args = geom019.sub
+    start_time = Sun Jul 20 11:00:15 2014
+    Walltime.Remaining = 3595835
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6853.frontend
+    Job_Name = geom020
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:07:55
+    resources_used.mem = 522672kb
+    resources_used.vmem = 2044728kb
+    resources_used.walltime = 00:08:44
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:15 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom020
+	/geom020.e6853
+    exec_host = node3/7+node3/6+node3/5+node3/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:15 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom02
+	0/geom020.o6853
+    Priority = 0
+    qtime = Sun Jul 20 11:00:15 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 1304
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom020,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:15 2014
+    submit_args = geom020.sub
+    start_time = Sun Jul 20 11:00:15 2014
+    Walltime.Remaining = 3595835
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6854.frontend
+    Job_Name = geom021
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:07:34
+    resources_used.mem = 522756kb
+    resources_used.vmem = 2044720kb
+    resources_used.walltime = 00:08:24
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:15 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom021
+	/geom021.e6854
+    exec_host = node2/7+node2/6+node2/5+node2/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:16 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom02
+	1/geom021.o6854
+    Priority = 0
+    qtime = Sun Jul 20 11:00:16 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 28254
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom021,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:16 2014
+    submit_args = geom021.sub
+    start_time = Sun Jul 20 11:00:16 2014
+    Walltime.Remaining = 3595836
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6855.frontend
+    Job_Name = geom022
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:07:51
+    resources_used.mem = 522404kb
+    resources_used.vmem = 2044720kb
+    resources_used.walltime = 00:08:35
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:16 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom022
+	/geom022.e6855
+    exec_host = node1/3+node1/2+node1/1+node1/0
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:16 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom02
+	2/geom022.o6855
+    Priority = 0
+    qtime = Sun Jul 20 11:00:16 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 18881
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom022,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:16 2014
+    submit_args = geom022.sub
+    start_time = Sun Jul 20 11:00:16 2014
+    Walltime.Remaining = 3595836
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6856.frontend
+    Job_Name = geom023
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:10
+    resources_used.mem = 521980kb
+    resources_used.vmem = 2044732kb
+    resources_used.walltime = 00:08:42
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:16 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom023
+	/geom023.e6856
+    exec_host = node11/15+node11/14+node11/13+node11/12
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:16 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom02
+	3/geom023.o6856
+    Priority = 0
+    qtime = Sun Jul 20 11:00:16 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 17516
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom023,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:16 2014
+    submit_args = geom023.sub
+    start_time = Sun Jul 20 11:00:16 2014
+    Walltime.Remaining = 3595836
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6857.frontend
+    Job_Name = geom024
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:20
+    resources_used.mem = 524052kb
+    resources_used.vmem = 2044728kb
+    resources_used.walltime = 00:08:40
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:16 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom024
+	/geom024.e6857
+    exec_host = node10/15+node10/14+node10/13+node10/12
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:16 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom02
+	4/geom024.o6857
+    Priority = 0
+    qtime = Sun Jul 20 11:00:16 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 12896
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom024,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:16 2014
+    submit_args = geom024.sub
+    start_time = Sun Jul 20 11:00:16 2014
+    Walltime.Remaining = 3595836
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6858.frontend
+    Job_Name = geom025
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:23
+    resources_used.mem = 522716kb
+    resources_used.vmem = 2044732kb
+    resources_used.walltime = 00:08:53
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:16 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom025
+	/geom025.e6858
+    exec_host = node9/15+node9/14+node9/13+node9/12
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:16 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom02
+	5/geom025.o6858
+    Priority = 0
+    qtime = Sun Jul 20 11:00:16 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 18298
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom025,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:16 2014
+    submit_args = geom025.sub
+    start_time = Sun Jul 20 11:00:16 2014
+    Walltime.Remaining = 3595836
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6859.frontend
+    Job_Name = geom026
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:08
+    resources_used.mem = 523308kb
+    resources_used.vmem = 2044716kb
+    resources_used.walltime = 00:08:36
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:16 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom026
+	/geom026.e6859
+    exec_host = node8/11+node8/10+node8/9+node8/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:17 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom02
+	6/geom026.o6859
+    Priority = 0
+    qtime = Sun Jul 20 11:00:16 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 23130
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom026,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:16 2014
+    submit_args = geom026.sub
+    start_time = Sun Jul 20 11:00:17 2014
+    Walltime.Remaining = 3595837
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6860.frontend
+    Job_Name = geom027
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:26
+    resources_used.mem = 806436kb
+    resources_used.vmem = 2044724kb
+    resources_used.walltime = 00:08:50
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:16 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom027
+	/geom027.e6860
+    exec_host = node7/11+node7/10+node7/9+node7/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:17 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom02
+	7/geom027.o6860
+    Priority = 0
+    qtime = Sun Jul 20 11:00:16 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 7102
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom027,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:16 2014
+    submit_args = geom027.sub
+    start_time = Sun Jul 20 11:00:17 2014
+    Walltime.Remaining = 3595837
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6861.frontend
+    Job_Name = geom028
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:07
+    resources_used.mem = 521256kb
+    resources_used.vmem = 2044732kb
+    resources_used.walltime = 00:08:33
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:17 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom028
+	/geom028.e6861
+    exec_host = node6/11+node6/10+node6/9+node6/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:17 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom02
+	8/geom028.o6861
+    Priority = 0
+    qtime = Sun Jul 20 11:00:17 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 31272
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom028,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:17 2014
+    submit_args = geom028.sub
+    start_time = Sun Jul 20 11:00:17 2014
+    Walltime.Remaining = 3595837
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6862.frontend
+    Job_Name = geom029
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:08
+    resources_used.mem = 521912kb
+    resources_used.vmem = 2044732kb
+    resources_used.walltime = 00:08:37
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:17 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom029
+	/geom029.e6862
+    exec_host = node5/11+node5/10+node5/9+node5/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:17 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom02
+	9/geom029.o6862
+    Priority = 0
+    qtime = Sun Jul 20 11:00:17 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 29843
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom029,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:17 2014
+    submit_args = geom029.sub
+    start_time = Sun Jul 20 11:00:17 2014
+    Walltime.Remaining = 3595837
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6863.frontend
+    Job_Name = geom030
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:05
+    resources_used.mem = 806380kb
+    resources_used.vmem = 2044728kb
+    resources_used.walltime = 00:08:53
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:17 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom030
+	/geom030.e6863
+    exec_host = node4/11+node4/10+node4/9+node4/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:17 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom03
+	0/geom030.o6863
+    Priority = 0
+    qtime = Sun Jul 20 11:00:17 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 15214
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom030,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:17 2014
+    submit_args = geom030.sub
+    start_time = Sun Jul 20 11:00:17 2014
+    Walltime.Remaining = 3595837
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6864.frontend
+    Job_Name = geom031
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:08:00
+    resources_used.mem = 806440kb
+    resources_used.vmem = 2044728kb
+    resources_used.walltime = 00:08:42
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:17 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom031
+	/geom031.e6864
+    exec_host = node3/11+node3/10+node3/9+node3/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:17 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom03
+	1/geom031.o6864
+    Priority = 0
+    qtime = Sun Jul 20 11:00:17 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 1365
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom031,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:17 2014
+    submit_args = geom031.sub
+    start_time = Sun Jul 20 11:00:17 2014
+    Walltime.Remaining = 3595837
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6865.frontend
+    Job_Name = geom032
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:07:37
+    resources_used.mem = 522832kb
+    resources_used.vmem = 2044724kb
+    resources_used.walltime = 00:08:22
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:17 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom032
+	/geom032.e6865
+    exec_host = node2/11+node2/10+node2/9+node2/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:17 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom03
+	2/geom032.o6865
+    Priority = 0
+    qtime = Sun Jul 20 11:00:17 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 28316
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom032,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:17 2014
+    submit_args = geom032.sub
+    start_time = Sun Jul 20 11:00:18 2014
+    Walltime.Remaining = 3595838
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6866.frontend
+    Job_Name = geom033
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:07:52
+    resources_used.mem = 522728kb
+    resources_used.vmem = 2044724kb
+    resources_used.walltime = 00:08:33
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:17 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom033
+	/geom033.e6866
+    exec_host = node1/11+node1/10+node1/9+node1/8
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:18 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom03
+	3/geom033.o6866
+    Priority = 0
+    qtime = Sun Jul 20 11:00:17 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 18942
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom033,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:17 2014
+    submit_args = geom033.sub
+    start_time = Sun Jul 20 11:00:18 2014
+    Walltime.Remaining = 3595838
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6867.frontend
+    Job_Name = geom034
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:01:23
+    resources_used.mem = 521528kb
+    resources_used.vmem = 2044616kb
+    resources_used.walltime = 00:01:33
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:17 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom034
+	/geom034.e6867
+    exec_host = node4/7+node4/6+node4/5+node4/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:07:37 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom03
+	4/geom034.o6867
+    Priority = 0
+    qtime = Sun Jul 20 11:00:17 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 16609
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom034,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:17 2014
+    submit_args = geom034.sub
+    start_time = Sun Jul 20 11:07:37 2014
+    Walltime.Remaining = 3596277
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6868.frontend
+    Job_Name = geom035
+    Job_Owner = alessio@frontend
+    resources_used.cput = 00:00:31
+    resources_used.mem = 522208kb
+    resources_used.vmem = 1025604kb
+    resources_used.walltime = 00:00:37
+    job_state = R
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:18 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom035
+	/geom035.e6868
+    exec_host = node1/7+node1/6+node1/5+node1/4
+    exec_port = 15003+15003+15003+15003
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:08:14 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom03
+	5/geom035.o6868
+    Priority = 0
+    qtime = Sun Jul 20 11:00:18 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    session_id = 20483
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom035,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:18 2014
+    submit_args = geom035.sub
+    start_time = Sun Jul 20 11:08:14 2014
+    Walltime.Remaining = 3596314
+    start_count = 1
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
+Job Id: 6869.frontend
+    Job_Name = geom036
+    Job_Owner = alessio@frontend
+    job_state = Q
+    queue = batch
+    server = frontend
+    Checkpoint = u
+    ctime = Sun Jul 20 11:00:18 2014
+    Error_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom036
+	/geom036.e6869
+    Hold_Types = n
+    Join_Path = n
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Sun Jul 20 11:00:18 2014
+    Output_Path = frontend:/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom03
+	6/geom036.o6869
+    Priority = 0
+    qtime = Sun Jul 20 11:00:18 2014
+    Rerunable = False
+    Resource_List.mem = 1700mb
+    Resource_List.nodect = 1
+    Resource_List.nodes = 1:ppn=4
+    Resource_List.walltime = 999:00:00
+    Shell_Path_List = /bin/sh
+    Variable_List = PBS_O_QUEUE=batch,PBS_O_HOME=/home/alessio,
+	PBS_O_LOGNAME=alessio,
+	PBS_O_PATH=/home/alessio/Haskell/GHC/bin:/home/alessio/Haskell/HASKPL
+	AT/bin:/opt/torque413/sbin:/opt/torque413/bin:/opt/shared/openmpi163/b
+	in:/opt/maui331/bin:/usr/lib64/qt-3.3/bin:/opt/intel/composer_xe_2013.
+	1.117/bin/intel64:/opt/intel/composer_xe_2013.1.117/mpirt/bin/intel64:
+	/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/app
+	s/bin:/home/alessio/bin,PBS_O_MAIL=/var/spool/mail/alessio,
+	PBS_O_SHELL=/bin/bash,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_WORKDIR=/home/alessio/a-RINIZIAMO/e-psb3Cis_cFcasscf/geom036,
+	PBS_O_HOST=frontend,PBS_O_SERVER=frontend
+    etime = Sun Jul 20 11:00:18 2014
+    submit_args = geom036.sub
+    fault_tolerant = False
+    job_radix = 0
+    submit_host = frontend
+
