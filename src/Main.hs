@@ -27,8 +27,9 @@ main = do
                   putStrLn $ counter transf
              else do
                   let oriz = take widthTerminal $ repeat '-'
-                  putStrLn $ unlines $ [oriz] ++ (filter (\x -> elem (head args) (words x)) transf) ++ [oriz]
-                  putStrLn $ counter transf
+                      filtered = (filter (\x -> elem (head args) (words x)) transf) 
+                  putStrLn $ unlines $ [oriz] ++ filtered ++ [oriz]
+                  putStrLn $ counter filtered
 
 counter transf = let
   c x = if elem "C" x || elem "E" x then 1 else 0
