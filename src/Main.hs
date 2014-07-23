@@ -22,10 +22,23 @@ main = do
               widthTerminal = width win :: Int
               transf  = transformer widthTerminal mosaicD
           if args == [] 
-             then putStrLn $ unlines transf
+             then do
+                  putStrLn $ unlines transf
+                  putStrLn $ counter transf
              else do
                   let oriz = take widthTerminal $ repeat '-'
                   putStrLn $ unlines $ [oriz] ++ (filter (\x -> elem (head args) (words x)) transf) ++ [oriz]
+                  putStrLn $ counter transf
+
+counter transf = let
+  c x = if elem "C" x || elem "E" x then 1 else 0
+  r x = if elem "R" x then 1 else 0
+  q x = if elem "Q" x then 1 else 0
+  countC = sum $ map (c . words) transf
+  countR = sum $ map (r . words) transf
+  countQ = sum $ map (q . words) transf
+  total = countC + countR + countQ 
+  in "Total: " ++ (show total) ++ "  Running: " ++ (show countR) ++ "  Queueing: " ++ (show countQ) ++ "  Canceled: " ++ (show countC)
 
 transformer :: Int -> [[String]] -> [String]
 transformer winS xss = let 
