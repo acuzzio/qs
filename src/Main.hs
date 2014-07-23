@@ -8,12 +8,12 @@ import System.IO
 import System.Process
 import System.ShQQ
 
-qstatOutput = "output.qstat"
+--qstatOutput = "output.qstat"
 
 main = do
   args <- getArgs
---  a <- readShell "qstat -f | sed '/\\t/d'"
-  a <- readFile qstatOutput
+  a <- readShell "qstat -f | sed '/\\t/d'"
+--  a <- readFile qstatOutput
   Just win <- hSize stdout
   if a == "" 
      then putStrLn "\nNo Jobs on Queue !!\n"
