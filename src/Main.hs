@@ -18,16 +18,17 @@ main = do
   if a == "" 
      then putStrLn "\nNo Jobs on Queue !!\n"
      else do
-          let mosaicD = map words $ lines a
+          let mosaicD    = map words $ lines a
               widthTerminal = width win :: Int
-              transf  = transformer widthTerminal mosaicD
+              transf     = transformer widthTerminal mosaicD
           if args == [] 
              then do
                   putStrLn $ unlines transf
                   putStrLn $ counter transf
              else do
-                  let oriz = take widthTerminal $ repeat '-'
-                      filtered = (filter (\x -> elem (head args) (words x)) transf) 
+             --     let oriz = take widthTable $ repeat '-'
+                  let filtered = (filter (\x -> elem (head args) (words x)) transf) 
+                      oriz = head transf
                   putStrLn $ unlines $ [oriz] ++ filtered ++ [oriz]
                   putStrLn $ counter filtered
 
