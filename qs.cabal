@@ -36,7 +36,6 @@ Flag debug
 
 
 executable qs
-  ghc == 7.* 
   ghc-options:
     -O2
     -rtsopts
@@ -44,7 +43,7 @@ executable qs
   build-depends:
       base  
     , directory
-    , process   == 1.1.*
+    , process
     , split
     , shqq
     , terminal-size
